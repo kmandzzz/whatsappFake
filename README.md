@@ -22,6 +22,15 @@ Você pode utilizar:
 - Angular, Vue.js ou qualquer outro framework
 - Javascript, HTML e CSS puro
 
+<h3><b>:white_check_mark: Resultado do projeto:</h3></b>
+
+- Desktop:
+
+[![ww-fake.png](https://i.postimg.cc/gkBvbdrm/ww-fake.png)](https://postimg.cc/F73f0MjB)
+
+- Mobile:
+
+[![Captura-de-tela-2022-02-05-015258.png](https://i.postimg.cc/T1cv5CLJ/Captura-de-tela-2022-02-05-015258.png)](https://postimg.cc/zH3c9wky)
 <h2><b>:hourglass: Rodando o projeto:</h2></b>
 <h3><b>Se você baixou como .zip, siga as instruções abaixo:</h3></b>
 
